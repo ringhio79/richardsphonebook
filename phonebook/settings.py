@@ -25,7 +25,7 @@ SECRET_KEY = '+%kvw#jy-thpi@lf#m#b8dnsu2r(h6f^fl_y)zac0ox+g385&y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['phonebook-richardadalton.c9users.io']
+ALLOWED_HOSTS = ['richardsphonebook-gigi108.c9users.io']
 
 
 # Application definition
